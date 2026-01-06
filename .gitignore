@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+sgd_venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data and Models (вони важкі, їх не пушимо)
+*.mp4
+*.avi
+*.pt
+data/
+models/
+runs/
+
+# IDE
+.vscode/
+.idea/
