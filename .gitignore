@@ -10,14 +10,14 @@ sgd_venv/
 .ipynb_checkpoints/
 Construction-Site-Safety-27/
 
-# Data and Models (вони важкі, їх не пушимо)
+# Data and Models
 *.mp4
 *.avi
 *.pt
 *.jpg
 data/
 models/
-runs/
+#runs/
 violations/
 
 # IDE
