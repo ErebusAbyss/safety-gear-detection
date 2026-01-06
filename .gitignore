@@ -18,6 +18,7 @@ Construction-Site-Safety-27/
 data/
 models/
 runs/
+violations/
 
 # IDE
 .vscode/
