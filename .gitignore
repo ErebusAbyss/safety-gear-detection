@@ -8,11 +8,13 @@ sgd_venv/
 
 # Jupyter
 .ipynb_checkpoints/
+Construction-Site-Safety-27/
 
 # Data and Models (вони важкі, їх не пушимо)
 *.mp4
 *.avi
 *.pt
+*.jpg
 data/
 models/
 runs/
